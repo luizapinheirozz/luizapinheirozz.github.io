@@ -1,0 +1,6 @@
+@import url(./global.css); /* thats not the greatest form to do that, not so optimized */
+@import url(./header.css);
+@import url(./introducao.css);
+@import url(./experiencia.css);
+@import url(./formacao.css);
+@import url(./footer.css);
